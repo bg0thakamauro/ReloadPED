@@ -4,7 +4,7 @@
 ---
 
 ### 💬 Command
-Changeable in **config.lua**  
+Changeable in **client.lua**  
 Default command:  
 ```
 /reloadped
